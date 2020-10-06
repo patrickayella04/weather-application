@@ -1,0 +1,1 @@
+//Local storage in its own file here.
